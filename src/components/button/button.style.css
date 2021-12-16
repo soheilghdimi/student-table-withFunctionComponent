@@ -1,0 +1,17 @@
+button{
+    background-color: #860f2c;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 30px;
+    margin-top: 38px;
+    outline: 0;
+    /*text-align: center;*/
+    width: 100%;
+}
+button:active {
+    background-color: #a91f40;
+}
